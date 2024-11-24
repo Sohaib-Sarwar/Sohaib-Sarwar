@@ -1,7 +1,7 @@
 #  Sohaib | Software Engineering Student  
 
 🎓 **Bachelor's in Software Engineering**  
-📍 **NUST** | National University of Sciences and Technology, Islamabad, Pakistan.
+📍 **NUST** | National University of Sciences and Technology, Islamabad.
 
 ---
 
