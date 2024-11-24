@@ -1,16 +1,29 @@
-## Hi there 👋
+#  Sohaib | Software Engineering Student  
 
-<!--
-**Sohaib-Sarwar/Sohaib-Sarwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor's in Software Engineering**  
+📍 **NUST** | National University of Sciences and Technology, Islamabad, Pakistan.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me  
+Hi there! I'm Sohaib, a Software Engineering student passionate about solving real-world problems through code. My interests lie in [e.g., software development, AI, web applications, etc.], and I'm always looking to learn, grow, and contribute to exciting projects.
+
+---
+
+### 🚀 Skills and Tools  
+- **Programming Languages**: [C++, Java, Php etc.]  
+- **Tools & Technologies**: [e.g., Git, Docker, etc.]  
+- **Areas of Interest**: [e.g., BlockChain, Machine Learning, Web Development, etc.]  
+
+---
+
+### 📂 Projects  
+Check out some of my projects:  
+1. **[Search Engine](#)** – *Developed an optimized search engine for querying a hotel dataset using lexicon JSON and forward/backward indexing. Leveraged Data Structures and Algorithms (DSA) for efficient and accurate search performance..*  
+
+
+---
+
+### 📫 Connect with Me  
+- **GitHub**: [https://github.com/Sohaib-Sarwar]   
+- **Email**: [msarwar.bese23seecs@seecs.edu.pk]  
