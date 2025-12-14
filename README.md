@@ -14,7 +14,7 @@
   <a href="https://github.com/Sohaib-Sarwar">
     <img src="https://img.shields.io/badge/GitHub-Sohaib--Sarwar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/muhammadsohaibsarwar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -160,7 +160,7 @@ High-performance search engine with optimized indexing for large-scale datasets.
 <div align="center">
 <br/>
 
-
+<img src="https://streak-stats.demolab.com?user=Sohaib-Sarwar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
@@ -195,7 +195,7 @@ High-performance search engine with optimized indexing for large-scale datasets.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Sohaib_Sarwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsohaibsarwar/)
 [![Email](https://img.shields.io/badge/Email-msarwar.bese23seecs%40seecs.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msarwar.bese23seecs@seecs.edu.pk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Sohaib-Sarwar)
