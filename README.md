@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sohaib Sarwar
+# Muhammad Sohaib Sarwar
 
 ### Software Engineering Student | MERN Stack Developer | AI Enthusiast
 
@@ -27,181 +27,423 @@
 
 ---
 
-## About Me
+<!-- ═══════════════════════════════════════════════════════════════════════
+     ABOUT
+     ═══════════════════════════════════════════════════════════════════ -->
 
-Software Engineering student at **National University of Sciences and Technology (NUST)**, Islamabad, specializing in full-stack web development and artificial intelligence. Passionate about building scalable applications, optimizing algorithms, and exploring cutting-edge technologies in blockchain and machine learning.
+## About
 
-**Current Focus:**
-- Full-stack development with MERN stack architecture
-- Machine learning model development and deployment
-- Blockchain technology and decentralized applications
-- Algorithm optimization and data structure implementation
+```ts
+const sohaib = {
+  role:        "Software Engineer @ 99 Technologies",
+  based:       "Islamabad, Pakistan  ->  Remote with US Teams",
+  education:   "BE Software Engineering · NUST SEECS · 2023 – 2027",
+  stack:       ["MERN", "Django", "FastAPI", "GCP", "Docker", "TensorFlow"],
+  focus:       "Cloud-native microservices · Distributed systems · QA",
+  building:    "TheraBuddy — AI-powered telehealth SaaS (US market)",
+  openTo:      ["Remote", "Hybrid", "FAANG", "Fintech", "HealthTech", "SaaS"]
+};
+```
+
+Software Engineer at **99 Technologies** delivering enterprise software for US clients. Fast-tracked from intern to full-time engineer in **12 months**, shipping **2 live production platforms** serving **9+ US business locations** — cutting operational overhead by **55%** and lifting B2B/B2C engagement by **88%**. Independently gather client requirements via stakeholder meetings, manage Jira workflows, and ship full-stack features in remote Agile/Scrum environments.
+
+<br/>
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="120"><sub>LANGUAGES</sub></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css,bash&perline=10" alt="languages" /></td>
+</tr>
+<tr>
+<td align="center"><sub>FRONTEND</sub></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,materialui,tailwind,figma&perline=10" alt="frontend" /></td>
+</tr>
+<tr>
+<td align="center"><sub>BACKEND</sub></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql&perline=10" alt="backend" /></td>
+</tr>
+<tr>
+<td align="center"><sub>DATABASES</sub></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,redis&perline=10" alt="databases" /></td>
+</tr>
+<tr>
+<td align="center"><sub>CLOUD / DEVOPS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=gcp,docker,nginx,githubactions,linux,git,vercel&perline=10" alt="devops" /></td>
+</tr>
+<tr>
+<td align="center"><sub>QA / TOOLS</sub></td>
+<td><img src="https://skillicons.dev/icons?i=postman,jest,vscode,jira&perline=10" alt="tools" /></td>
+</tr>
+<tr>
+<td align="center"><sub>AI / ML</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=10" alt="ai-ml" /></td>
+</tr>
+</table>
+
+<br/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     CURRENTLY BUILDING
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## Currently Building
+
+### TheraBuddy
+*AI-Enabled Autism Therapy Companion — Final Year Project sponsored by 99 Technologies & NUST*
+
+Production-grade subscription-based telehealth SaaS targeting the US market, where a single ABA therapy session costs $500+. Subscription model designed to capture a share of the $2B+ US autism therapy market through accessible, AI-driven home therapy.
+
+- AI-powered interactive therapy modules for children with Autism Spectrum Disorder
+- NLP-driven conversational engine with adaptive interaction patterns
+- Progress tracking dashboards for therapists and parents
+- HIPAA-aligned data handling and multi-tenant cloud architecture
+- Offline-first child interaction modes for inconsistent connectivity
+- Production-grade SDLC with milestone-based delivery under joint industry-academic supervision
+
+**Stack:** `React Native` `TensorFlow` `NLP` `FastAPI` `Cloud Infrastructure`
+
+[![Status: In Development](https://img.shields.io/badge/Status-In_Development-F59E0B?style=flat-square)](#)
+[![Market: $2B+ US](https://img.shields.io/badge/Market-%242B%2B_US-58A6FF?style=flat-square)](#)
+[![Sponsored](https://img.shields.io/badge/Sponsored-99_Technologies_%26_NUST-24292F?style=flat-square)](#)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     PRODUCTION WORK
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## Production Work
+<sup>Under NDA · Built at 99 Technologies for US enterprise clients</sup>
 
 ---
 
-## Technical Expertise
+### EZ OMS
+*Order Management System with integrated CRM — for [EZ on the Earth](https://portal.ezontheearth.com/) (US)*
 
-### Full-Stack Development
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+End-to-end order management platform handling the complete lifecycle — receiving, barcode generation, Balcan/Retort processing, shipment tracking, fulfillment — across 23 database models on a dual-database architecture.
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- Engineered full **CRM module** lifting B2C and B2B engagement by **88%** through unified customer profiles and streamlined complaint workflows
+- Automated label printing and NetSuite REST API integration — reduced human effort by **45%**, processed **1000+ daily orders**, saved **30+ labor hours per week**
+- Hardened security with RBAC across **8 user roles**, session-based authentication, and branch-level data isolation
+- Delivered regulatory PDF compliance reports (COR, LRI CORs) via WeasyPrint pipelines
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Stack:** `Django` `PostgreSQL` `MySQL` `Gunicorn` `Nginx` `WeasyPrint` `NetSuite API`
 
-### Development Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Specializations
-- **MERN Stack Development** - Full-stack web applications
-- **Blockchain Technology** - Smart contracts and DApps
-- **Machine Learning** - Neural networks and predictive models
-- **Data Structures & Algorithms** - Advanced optimization techniques
-- **RESTful API Design** - Scalable backend architecture
-- **Database Management** - SQL and NoSQL systems
+[![Live System](https://img.shields.io/badge/Live-portal.ezontheearth.com-24292F?style=flat-square&logo=vercel&logoColor=white)](https://portal.ezontheearth.com/)
+[![Client: EZ on the Earth](https://img.shields.io/badge/Client-EZ_on_the_Earth-181717?style=flat-square)](https://portal.ezontheearth.com/)
+[![NDA](https://img.shields.io/badge/Source-NDA-EF4444?style=flat-square)](#)
 
 ---
+
+### Greenloop
+*Recycling Operations Platform — for [Lighting Resources Inc.](https://www.lightingresourcesinc.com/) (US)*
+
+Branch-aware invoice tracking and complaints management platform serving 9+ physical US branches (ATL, AZ, CA, IN, TN, TX) with role-based access, audit trails, and inter-branch coordination tooling.
+
+- Boosted daily invoice productivity by **87%** across all branches; eliminated manual reconciliation workflows
+- Built **@mention** complaints system with real-time notifications and priority escalation — resolved customer issues **3x faster**, cut escalation backlog by **60%**
+- Engineered intra-branch messaging layer that removed **100%** of third-party email dependency for dispute resolution — multi-day threads became same-hour resolutions
+- Implemented invoice lifecycle with **31 tracked data fields**, 5 composite indexes, audit trails, and CSV/Excel exports — cut administrative effort by **55%**
+
+**Stack:** `Django` `PostgreSQL` `Bootstrap 5` `DataTables.js` `Gunicorn` `Nginx`
+
+[![Live System](https://img.shields.io/badge/Live-greenloop.ezontheearth.com-24292F?style=flat-square&logo=vercel&logoColor=white)](https://greenloop.ezontheearth.com/)
+[![Client: Lighting Resources](https://img.shields.io/badge/Client-Lighting_Resources_Inc.-181717?style=flat-square)](https://www.lightingresourcesinc.com/)
+[![NDA](https://img.shields.io/badge/Source-NDA-EF4444?style=flat-square)](#)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS  —  Block format, not tables
+     ═══════════════════════════════════════════════════════════════════ -->
 
 ## Featured Projects
 
+---
+
+### Fintraxa
+*Personal Finance & Investment Progressive Web App*
+
+Full-featured PWA tracking income/expenses, mutual fund portfolios (MUFAP), and PSX stock holdings with live market data. Designed for the Pakistani investor market with built-in support for MUFAP funds and PSX equities.
+
+- **4 modules** — income/expense ledger, mutual funds, PSX stocks, aggregated portfolio
+- **520+ mutual funds** and **470+ PSX stocks** tracked with live NAV and price feeds
+- Supabase Auth with **Row-Level Security**, dark/light theming, offline service worker caching
+- Mobile-first glassmorphic UI with swipeable navigation and PWA installability
+- Deployed via **Docker + nginx + Railway** with environment-based build configuration
+
+**Stack:** `React 19` `Vite` `Material-UI v7` `Supabase` `TanStack Query` `Zustand` `Docker` `nginx`
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/transfinancial/fintraxa)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-24292F?style=flat-square&logo=vercel&logoColor=white)](https://fintraxa.com)
+
+---
+
+### Fintraxa API
+*Pakistan Finance Data Microservices*
+
+Split-service microservice architecture (FastAPI backend + nginx frontend) auto-scraping MUFAP and PSX data every 30 minutes. Serves a unified financial data API for Pakistani markets with sub-second response times.
+
+- **990+ financial instruments** served from in-memory cache with **sub-50ms** response times
+- **20+ REST endpoints** with filtering, pagination, sorting, search, and Swagger auto-documentation
+- Multi-stage **Docker build** with GZip compression reducing JSON payloads by **~70%**
+- Auto-scraping background workers refresh data every 30 minutes without downtime
+- Health check endpoints, cache status monitoring, and graceful degradation under load
+
+**Stack:** `FastAPI` `BeautifulSoup4` `Pandas` `Docker` `nginx` `Python 3.12`
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/transfinancial/PK-Finance-Microservices)
+[![Live API](https://img.shields.io/badge/Live_API-24292F?style=flat-square&logo=fastapi&logoColor=white)](https://api.fintraxa.com)
+[![Swagger Docs](https://img.shields.io/badge/Swagger_Docs-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://api.fintraxa.com/docs)
+
+---
+
 ### Life Dashboard
-**Full-Stack Personal Management System**
+*Productivity & Wellness Management Platform*
 
-A comprehensive MERN stack application for personal productivity and life management.
+Full-stack MERN-adjacent platform consolidating personal productivity and wellness tools — task management, habit tracking, encrypted journaling, expense monitoring, calendar scheduling, and focus timing — in a single, secure, intuitive interface.
 
-- Built with **MongoDB**, **Express.js**, **React**, and **Node.js**
-- Features task management, goal tracking, and data visualization
-- Implemented RESTful API architecture with JWT authentication
-- Responsive UI with modern design principles
+- Led team of 3 as **Tech Lead**; engineered **6 integrated modules**: Tasks, Habits, Encrypted Journal, Expenses, Calendar, Pomodoro
+- Implemented **AES-128 end-to-end encryption** for journal entries with Fernet symmetric encryption
+- JWT authentication with bcrypt password hashing and 24-hour token expiration
+- SQLAlchemy ORM with Alembic migrations across user, task, habit, expense, journal, and calendar tables
+- Owned **QA Engineering**: designed test plans, authored unit/integration tests with pytest, ran regression sweeps, documented **15+ API endpoints** with full response validation
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT` `Chart.js`
+**Stack:** `React 18` `Flask 3` `MySQL` `SQLAlchemy` `Chart.js` `JWT` `bcrypt` `Fernet`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sohaib-Sarwar)
-
----
-
-### Money Flow
-**Financial Management & Expense Tracking Platform**
-
-MERN stack application for comprehensive personal finance management.
-
-- Real-time expense tracking and budget management
-- Interactive data visualization with transaction analytics
-- Secure authentication and authorization system
-- MongoDB aggregation for financial insights and reporting
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Redux` `D3.js`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sohaib-Sarwar)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sohaib-Sarwar/Life-Dashboard)
+[![Role: Tech Lead](https://img.shields.io/badge/Role-Tech_Lead-58A6FF?style=flat-square)](#)
 
 ---
 
-### Snake AI - Keras Neural Network
-**Reinforcement Learning Game Agent**
+### ShipNest
+*Logistics & Shipping Management Platform*
 
-Intelligent snake game AI using deep learning and reinforcement learning techniques.
+Full-stack logistics platform modeled after a US production system in use at 99 Technologies clients. Delivered as a graded semester project with production-grade architecture and role-based access control across multiple actor types.
 
-- Implemented neural network using **Keras** and **TensorFlow**
-- Q-Learning algorithm for decision-making optimization
-- Real-time game state processing and action prediction
-- Achieved autonomous gameplay with adaptive learning
+- End-to-end shipment lifecycle: shipment creation, carrier assignment, real-time tracking, delivery confirmation, multi-stage status workflows
+- Admin dashboards for warehouse management, inventory control, and cost optimization analytics
+- Role-based access control spanning shippers, carriers, and administrators
+- Inspired by US enterprise logistics systems with production-grade architectural patterns
 
-**Tech Stack:** `Python` `Keras` `TensorFlow` `NumPy` `Pygame` `Deep Learning`
+**Stack:** `MongoDB` `Express.js` `React` `Node.js` `JWT`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sohaib-Sarwar)
-
----
-
-### Intelligent Search Engine
-**Advanced Data Retrieval System**
-
-High-performance search engine with optimized indexing for large-scale datasets.
-
-- Lexicon-based JSON indexing with forward and backward indexing
-- Advanced **Data Structures & Algorithms** for query optimization
-- Sub-second response times with accurate result ranking
-- Scalable architecture for handling large hotel datasets
-
-**Tech Stack:** `C++` `JSON` `Advanced DSA` `Algorithm Design` `Data Indexing`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sohaib-Sarwar)
+[![Type: Semester Project](https://img.shields.io/badge/Type-Semester_Project-24292F?style=flat-square)](#)
 
 ---
 
-## GitHub Analytics
+### Secure QR Vault
+*Encrypted QR Codes for Cryptocurrency Wallets*
 
-<div align="center">
+Cryptography project generating AES-256 encrypted QR codes for secure cryptocurrency seed phrase storage. Built with defense-in-depth principles and validated through extensive round-trip testing.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sohaib-Sarwar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+- **AES-256** symmetric encryption with **PBKDF2** key derivation
+- Secure encoding pipeline with tamper-resistant output
+- Validated round-trip integrity via automated test iterations with deterministic encryption verification
+- Reliable decryption across diverse seed phrase inputs and lengths
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib-Sarwar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+**Stack:** `Python` `AES-256` `PBKDF2` `Cryptography Library` `QR Code Generation`
 
-</div>
+[![Type: Cryptography Project](https://img.shields.io/badge/Type-Cryptography-EF4444?style=flat-square)](#)
 
-<div align="center">
+---
+
+### Custom Search Engine
+*High-Performance Information Retrieval System*
+
+Search engine with Python web crawler, inverted index construction, and TF-IDF relevance ranking. Lexicon-based JSON indexing with forward and backward indexing for scalable query optimization.
+
+- Python web crawler with configurable depth and rate limiting
+- **Inverted index** structure for sub-linear query lookup performance
+- **TF-IDF** relevance ranking with document frequency normalization
+- React frontend with paginated results, query highlighting, and real-time autosuggestions
+- Optimized indexing pipeline with efficient data structures and lazy evaluation
+
+**Stack:** `Python` `React` `TF-IDF` `Web Crawling` `Inverted Index` `JSON`
+
+[![Type: Information Retrieval](https://img.shields.io/badge/Type-Information_Retrieval-24292F?style=flat-square)](#)
+
+---
+
+### Snake AI
+*Reinforcement Learning Game Agent*
+
+Neural network agent playing Snake autonomously using deep Q-Learning. Built to explore reinforcement learning fundamentals and adaptive game-playing AI.
+
+- Neural network implemented with **Keras** and **TensorFlow** backend
+- **Q-Learning** algorithm for state-action value approximation and decision optimization
+- Real-time game state processing with feature extraction
+- Achieved autonomous gameplay with adaptive learning over training episodes
+
+**Stack:** `Python` `Keras` `TensorFlow` `NumPy` `Pygame` `Q-Learning`
+
+[![Type: Deep Learning](https://img.shields.io/badge/Type-Deep_Learning-FF6F00?style=flat-square)](#)
+
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sohaib-Sarwar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak" />
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════
+     VERIFIED CERTIFICATIONS
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## Verified Certifications
+
+<sub>All credentials verifiable on Credly — click any badge to verify</sub>
+
+<p>
+  <a href="https://www.credly.com/badges/8a927cac-5cf0-4b83-8a37-a022872bd5ff/linked_in_profile">
+    <img src="https://img.shields.io/badge/Google_Cloud-Develop_Serverless_Applications_on_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run cert" />
+  </a>
+</p>
+<p>
+  <a href="https://www.credly.com/badges/4068a7c7-0a3d-4c46-86db-a76fb6929186/linked_in_profile">
+    <img src="https://img.shields.io/badge/Google_Cloud-Get_Started_with_Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Storage cert" />
+  </a>
+</p>
+<p>
+  <a href="https://www.credly.com/badges/456c6380-4071-46e8-8b4c-3d5ff0cf3acf/linked_in_profile">
+    <img src="https://img.shields.io/badge/Google_Cloud-Basics_of_Google_Cloud_Compute-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Compute cert" />
+  </a>
+</p>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohaib-Sarwar&theme=github-compact&hide_border=true&bg_color=0d1117&color=7d8590&line=30363d&point=c9d1d9&area=true&area_color=161b22" alt="Contribution Graph" />
+<!-- ═══════════════════════════════════════════════════════════════════════
+     CAREER PROGRESSION
+     ═══════════════════════════════════════════════════════════════════ -->
 
-</div>
+## Career Progression
 
----
+```
+2025  ─────────┬─── Jun  ●  Software Engineering Intern
+               │           Shipped React UIs to production within 6 weeks
+               │           Cut intern onboarding ramp by 40%
+               │
+               ├─── Sep  ●  Junior Software Engineer
+               │           Shipped REST APIs, microservices, ML integrations
+               │           Cut API response time by 30% via query optimization
+               │
+2026  ─────────┴─── Jan  ●  Software Engineer  (Full-time)
+                           Owning EZ OMS + Greenloop for US enterprise clients
+                           Leading QA across releases — zero critical defects
+                           Architecting TheraBuddy FYP (sponsored)
+```
 
-## Professional Development
+<br/>
 
-**Current Objectives:**
-- Contribute to open-source MERN stack projects
-- Develop production-ready blockchain applications
-- Advance machine learning expertise with deep learning frameworks
-- Obtain cloud computing certifications (AWS/Azure)
-- Publish technical documentation and research
+<!-- ═══════════════════════════════════════════════════════════════════════
+     GITHUB ACTIVITY
+     ═══════════════════════════════════════════════════════════════════ -->
 
-**Areas of Interest:**
-- Full-Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Blockchain & Web3 Technologies
-- Cloud Computing & DevOps
-- Algorithm Design & Optimization
+## GitHub Activity
 
----
 
-## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Sohaib_Sarwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsohaibsarwar/)
-[![Email](https://img.shields.io/badge/Email-msarwar.bese23seecs%40seecs.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msarwar.bese23seecs@seecs.edu.pk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Sohaib-Sarwar)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sohaib-Sarwar&color=58a6ff&style=for-the-badge&label=Profile+Views)
-
-**National University of Sciences and Technology, Islamabad**
+<img src="https://streak-stats.demolab.com?user=Sohaib-Sarwar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="streak" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohaib-Sarwar&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=161B22" alt="activity graph" />
+
+</div>
+
+
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohaib-Sarwar/Sohaib-Sarwar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohaib-Sarwar/Sohaib-Sarwar/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Sohaib-Sarwar/Sohaib-Sarwar/output/github-snake.svg" />
+  </picture>
+</p>
+
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     WHAT I BRING
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## What I Bring
+
+- **Client-facing communication** — Gather requirements via stakeholder meetings, drive demos across time zones, manage Jira workflows with zero missed SLAs
+- **Production discipline** — End-to-end ownership from requirements through architecture, deployment, monitoring, and post-release support
+- **QA mindset** — Unit, integration, black-box, and white-box testing across 15+ release cycles with zero critical defects
+- **Cross-functional collaboration** — Align engineering, QA, and client stakeholders through technical specifications, API contracts, and migration plans
+- **Distributed systems thinking** — Microservices architecture, caching strategies, query optimization, indexing, performance tuning
+- **Continuous learning** — Three Google Cloud verified credentials · Exploring blockchain and Web3 · Building AI/ML products with production constraints
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     OPEN TO OPPORTUNITIES
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## Open to Opportunities
+
+<p>
+  <img src="https://img.shields.io/badge/Remote-Available-58A6FF?style=flat-square" alt="Remote" />
+  <img src="https://img.shields.io/badge/Hybrid-Available-58A6FF?style=flat-square" alt="Hybrid" />
+  <img src="https://img.shields.io/badge/On--site-Available-58A6FF?style=flat-square" alt="Onsite" />
+</p>
+
+<sub>Domains: FinTech · HealthTech · SaaS · Logistics · Enterprise SaaS · AI/ML · Cloud-Native</sub>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+     CONTACT
+     ═══════════════════════════════════════════════════════════════════ -->
+
+## Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammadsohaibsarwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Sohaib_Sarwar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:msarwar.bese23seecs@seecs.edu.pk">
+    <img src="https://img.shields.io/badge/Email-msarwar.bese23seecs%40seecs.edu.pk-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Sohaib-Sarwar">
+    <img src="https://img.shields.io/badge/Personal-Sohaib--Sarwar-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/transfinancial">
+    <img src="https://img.shields.io/badge/Fintech_Org-transfinancial-181717?style=flat-square&logo=github&logoColor=white" alt="transfinancial" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2" width="100%" alt="divider" />
+</p>
+
+<p align="center"><sub><i>Built with intention. Last updated as systems shipped.</i></sub></p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════
+  END
+═══════════════════════════════════════════════════════════════════════ -->
