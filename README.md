@@ -340,46 +340,6 @@ Neural network agent playing Snake autonomously using deep Q-Learning. Built to 
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-     GITHUB ACTIVITY
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## GitHub Activity
-
-
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sohaib-Sarwar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohaib-Sarwar&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=161B22" alt="activity graph" />
-
-</div>
-
-
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE
-     ═══════════════════════════════════════════════════════════════════ -->
-
-## Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohaib-Sarwar/Sohaib-Sarwar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohaib-Sarwar/Sohaib-Sarwar/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Sohaib-Sarwar/Sohaib-Sarwar/output/github-snake.svg" />
-  </picture>
-</p>
-
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
      WHAT I BRING
